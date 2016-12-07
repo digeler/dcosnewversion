@@ -1,0 +1,41 @@
+{
+  "agentprivateCount": {
+    "value": 3
+  },
+  "agentprivateSubnet": {
+    "value": "10.0.0.0/16"
+  },
+  "agentprivateVMSize": {
+    "value": "Standard_D2_v2"
+  },
+  "agentpublicCount": {
+    "value": 3
+  },
+  "agentpublicEndpointDNSNamePrefix": {
+    "value": "agentperfix"
+  },
+  "agentpublicSubnet": {
+    "value": "10.1.0.0/16"
+  },
+  "agentpublicVMSize": {
+    "value": "Standard_D2_v2"
+  },
+  "firstConsecutiveStaticIP": {
+    "value": "172.16.0.5"
+  },
+  "linuxAdminUsername": {
+    "value": "azureuser"
+  },
+  "masterEndpointDNSNamePrefix": {
+    "value": "yourperfix"
+  },
+  "masterSubnet": {
+    "value": "172.16.0.0/24"
+  },
+  "masterVMSize": {
+    "value": "Standard_D2_v2"
+  },
+  "sshRSAPublicKey": {
+    "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6RgkmW5UnkLgnaAaQbOXyi27IzW9FoEPA9hIyZPYo9AM7Nln4CMzYXXGvRqrJa2V/WJU35ZDblGBi5TWgWVQDj9hTbD62z83AStRuGRg3sQyXJVFE2JmWTXMQzZe2d3baY88AUpzz5Lqsg3rcyWoCptGEit8de/BiVpmlEQy0NIXdY1fQaymLgQgzCG0ZWrzUgu3Jg2+BmqdaB9xMyHHCNblS0nQkCd/QgViC26N6DrFyh0/VoMw3N+3fwvHrHEK9ntTC1DzxKhARmy5G2cNLk2yMY0CMJM/GZ/HfzvyHYQB7deI9tuozYvYvxoMVMxomq6OXbb+rklXwGpKEkiMd"
+  }
+}
